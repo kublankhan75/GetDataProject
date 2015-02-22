@@ -1,5 +1,5 @@
 # getdataproject
-This repo include three files for Coursera GetData-011 course project. They are: this ReadMe, a codebook and an R script.
+This repo include three files for Coursera GetData-011 course project. They are: this README, a codebook and an R script.
 
 The course project required me to turn a large dataset, spread across eight smaller datasets, into a tidy dataset. My R script is well-commented, but it's worth sharing my approach here. More details can be found in codebook.md and run_analysis.R, both located within this repo.
 
